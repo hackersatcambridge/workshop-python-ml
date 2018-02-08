@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="missing energy magnitude <= 1.26\nentropy = 0.995\nsamples = 10000\nvalue = [5420, 4580]"] ;
+1 [label="lepton 1 pT <= 0.944\nentropy = 0.92\nsamples = 7738\nvalue = [5147, 2591]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="lepton 1 pT <= 0.603\nentropy = 0.758\nsamples = 5344\nvalue = [4174, 1170]"] ;
+1 -> 2 ;
+3 [label="(...)"] ;
+2 -> 3 ;
+612 [label="(...)"] ;
+2 -> 612 ;
+1427 [label="cos(theta_r1) <= 0.222\nentropy = 0.975\nsamples = 2394\nvalue = [973, 1421]"] ;
+1 -> 1427 ;
+1428 [label="(...)"] ;
+1427 -> 1428 ;
+1957 [label="(...)"] ;
+1427 -> 1957 ;
+2198 [label="missing energy magnitude <= 1.859\nentropy = 0.531\nsamples = 2262\nvalue = [273, 1989]"] ;
+0 -> 2198 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2199 [label="axial MET <= -0.047\nentropy = 0.762\nsamples = 1166\nvalue = [258, 908]"] ;
+2198 -> 2199 ;
+2200 [label="(...)"] ;
+2199 -> 2200 ;
+2443 [label="(...)"] ;
+2199 -> 2443 ;
+2470 [label="axial MET <= -1.266\nentropy = 0.104\nsamples = 1096\nvalue = [15, 1081]"] ;
+2198 -> 2470 ;
+2471 [label="(...)"] ;
+2470 -> 2471 ;
+2506 [label="(...)"] ;
+2470 -> 2506 ;
+}
