@@ -1,4 +1,4 @@
-title: Sample Workshop
+title: Applied Intro to Machine Learning
 
 # For an example of all the available fields, please refer to https://github.com/hackersatcambridge/workshop-example/blob/master/info/metadata.yaml
 
@@ -29,7 +29,7 @@ tags:
   - machine learning
   - python
   - programming
-  - scikitlearn
+  - scikit-learn
   - pandas
   - numpy
 
