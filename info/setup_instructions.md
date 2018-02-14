@@ -1,3 +1,24 @@
-If you have a Windows laptop, please install the application 'PuTTY' before you arrive by downloading ['putty.exe'](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+# The easy way
 
-This workshop requires connection to a UNIX machine (Linux, macOS) so to play along you'll be connecting to a UNIX machine using PuTTY.
+The easy way of getting everything you need for this workshop is by the way of installing [Anaconda](https://www.anaconda.com/download/).
+
+# The less easy way
+
+Alternatively, you can manually install the following components.
+
+- [Python 3](https://www.python.org/downloads/)
+
+- [Graphviz](https://www.graphviz.org/), also make sure that you have added it to the PATH
+
+- [IPython](https://ipython.org/install.html)
+
+- [SciPy](https://www.scipy.org/) `pip3 install scipy`
+
+- [Matplotlib](https://matplotlib.org/) `pip3 install matplotlib`
+
+- [NumPy](http://www.numpy.org/) `pip3 install nump`
+
+- [pandas](https://pandas.pydata.org/) `pip3 install pandas`
+
+- [Scikit-learn](http://scikit-learn.org) `pip install -U scikit-learn`
+
