@@ -12,5 +12,11 @@ Applied example which shows, via a Jupyter notebook:
 * Data visualization
 * Model performance visualization
 
-Make sure you download and decompress the dataset SUSY:
-https://archive.ics.uci.edu/ml/datasets/SUSY
+Make sure you download and decompress the [SUSY dataset](https://archive.ics.uci.edu/ml/datasets/SUSY):
+
+This can also by done by running the python script `examples/download_susy.py` in your terminal of choice:
+
+```bash
+cd examples
+python download_susy.py
+``
