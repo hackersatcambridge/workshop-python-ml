@@ -12,9 +12,9 @@ thanks:
   - Jared Khan
 
 # (optional) Links that attendees may wish to read after the workshop
-# further_reading_links:
-#   - text: Sampling
-#     url: https://en.wikipedia.org/wiki/Sampling_(music)
+further_reading_links:
+   - text: Feedback Form
+     url: https://goo.gl/forms/dILfppIpZyoNQUg03
 #   - text: Best websites a programmer should visit
 #     url: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-practice-for-beginners
 
