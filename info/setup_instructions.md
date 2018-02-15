@@ -22,3 +22,4 @@ Alternatively, you can manually install the following components.
 
 - [Scikit-learn](http://scikit-learn.org) `pip install -U scikit-learn`
 
+- [Jupyter Notebooks](http://jupyter.org/install) `pip3 install jupyter`
