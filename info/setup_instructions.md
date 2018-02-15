@@ -16,7 +16,7 @@ Alternatively, you can manually install the following components.
 
 - [Matplotlib](https://matplotlib.org/) `pip3 install matplotlib`
 
-- [NumPy](http://www.numpy.org/) `pip3 install nump`
+- [NumPy](http://www.numpy.org/) `pip3 install numpy`
 
 - [pandas](https://pandas.pydata.org/) `pip3 install pandas`
 
